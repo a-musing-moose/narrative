@@ -3,6 +3,7 @@ Forget Scrum - You're all Scum
 
 :tagline: What we can learn from e. Coli and friends
 :date: 2017-10-10
+:status: Draft
 
 
 As a few of you may know, my background is not just Computer Science. Before I embarked down this track I was a completely different type of scientist. I was a Biochemist.
