@@ -65,7 +65,7 @@ Now that's probably more than you ever wanted to know about bacteria, and you ar
 
 What this all points to in a somewhat round about way is that agile, scrum and the likes got something more right that perhaps they know. Biofilms and the mechanisms that helps them form are an excellent example of self-organising teams. They respond and adjust to the needs and challenges of individuals as event happen. They support and encourage each other to be more than just individuals. The whole is greater than the sum of it's parts.
 
-This is how I like think about self-organising teams. Though the sharing of informations, the encouragement of individuals and the celebration of each little achievement we all become more resilient, more productive and more accurate.
+This is how I like think about self-organising teams. Through the sharing of information, the encouragement of individuals and the celebration of each little achievement we all become more resilient, more productive and more accurate.
 
 Ok, one more little aside into *science*.
 
@@ -77,7 +77,7 @@ Speed vs Accuracy
    :alt: Speed-accuracy trade-offs under different forms of decision-making. [1]_
 
 
-Different mechanisms of decision making have different trade-offs. The most obvious is speed vs. accuracy. At one of the scale you have blind-autocratic leadership (do what I say). This is obviously super fast but is pretty crappy when it comes to accuracy.  At the opposite end of the scale with have a truly democratic group where all information from all individuals is considered. This obviously takes time, but has the highest accuracy.
+Different mechanisms of decision making have different trade-offs. The most obvious is speed vs. accuracy. At one end of the scale you have blind-autocratic leadership (do what I say). This is obviously super fast but is pretty crappy when it comes to accuracy. At the opposite end of the scale with have a truly democratic group where all information from all individuals is considered. This obviously takes time, but has the highest accuracy.
 
 Right slap-bang in the middle are self-organising groups. They are more accurate than individuals, but only slightly slower. Therefore making a good compromise between going fast and hitting targets. The article [1]_ that this diagram came from makes for pretty good reading in general about collective decision making and self organising groups.
 
