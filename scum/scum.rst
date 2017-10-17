@@ -1,5 +1,5 @@
-Forget Scrum - You're all Scum
-==============================
+You're All Scum and So Am I
+===========================
 
 :tagline: What we can learn from *E. coli* and friends
 :date: 2017-10-10
