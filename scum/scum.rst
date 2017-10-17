@@ -17,7 +17,7 @@ But this it no one trick pony.
 
 Most of the time these little bacteria are living the free floating, laid back lifestyle of your average Aussie surf bum. They ride through life by themselves in a liquid medium minding their own business. They can even move themselves around a bit with the aid of little hairs on their surface called cilia.
 
-However, from time to time this little fellow may find itself hang out with it mates and sticking around for a while. It is at this point that the humble E. coli goes full Banana Man, it undergoes a miraculous transformation. It starts making and then releasing an extra-cellular polysaccharide, it start spewing out sugars.
+However, from time to time this little fellow may find itself hang out with it mates and sticking around for a while. It is at this point that the humble E. coli goes full Banana Man, it undergoes a miraculous transformation. It starts making and then releasing extra-cellular polysaccharides, it start spewing out sugars.
 
 Now despite the laid-back surf dude existence, life is hard as a bacterium. It's a constant battle balancing between using nutrients and find them in the first place. Let alone protecting your patch from interlopers and would be predators. So why, you may ask, would our little friend waste so much energy chucking out something it doesn't use or need?
 
