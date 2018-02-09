@@ -1,0 +1,4 @@
+.. ci
+
+Continuous Integration
+======================
