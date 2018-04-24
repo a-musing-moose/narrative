@@ -62,7 +62,7 @@ both stifle innovation and that they are an important source of knowledge that
 can be used to guide thought. Ensuring that hard learnt lessons of the past
 are not lost of overlooked.
 
-Perhaps it is this aspect of *rules* that we sohuld hold onto? Their use as
+Perhaps it is this aspect of *rules* that we should hold onto? Their use as
 guidance in the unfamiliar, the codification of organisational learning. An
 opportunity to avoid repeating the mistakes of the past.
 
