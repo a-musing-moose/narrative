@@ -4,7 +4,7 @@ Rules Are Meant To Be Questioned
 :tagline: Agile is about not following the rules
 :tags: agile, governance, SOP, guidelines
 :date: 2018-04-01
-:status: Draft
+:status: Published
 
 
 *Agile* has been a massivew boon to the software development industry. It has
