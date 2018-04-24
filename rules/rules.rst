@@ -31,7 +31,7 @@ one like to be told what to do and will fight tooth and nail against it. Yet
 as communities scale, as organisations become more mature, this is exactly
 what happens. They start to build up a set of *rules*. These can be formally
 codified as SOPs (Standard Operating Procedures) or informally with
-explanations of the practices always ending up withe the statement *"This is
+explanations of the practices often ending up with the statement *"This is
 how we have always done it"*. This later option is bad. Seriously, if you ever
 find yourself saying it, or even just thinking of saying it, stop, take step
 back, and really think about it. What are the actual reasons to do something
