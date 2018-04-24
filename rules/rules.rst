@@ -7,7 +7,7 @@ Rules Are Meant To Be Questioned
 :status: Published
 
 
-*Agile* has been a massivew boon to the software development industry. It has
+*Agile* has been a massive boon to the software development industry. It has
 allowed development teams to embrace change rather than fear it.
 
 It has also encourage development teams to engage with the rest of the
